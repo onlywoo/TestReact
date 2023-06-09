@@ -3,6 +3,9 @@ import page1 from "../assets/1.png";
 import page2 from "../assets/2.png";
 import page3 from "../assets/3.png";
 import page4 from "../assets/4.png";
+import homePageWF from "../assets/HPWireframe.png";
+import BlogWF from "../assets/blogWirefream.png";
+import BlogWF2 from "../assets/blog2WF.png";
 import Logo from "../assets/Logo.png";
 import { Link } from "react-router-dom";
 import "../styles/Design.css";
@@ -71,6 +74,15 @@ export default class Design extends Component {
         </p>
         <div className="Wireframes">
           <h1>Wireframes</h1>
+        </div>
+        <div className="images">
+          <img src={homePageWF} />
+        </div>
+        <div className="images">
+          <img src={BlogWF} />
+        </div>
+        <div className="images">
+          <img src={BlogWF2} />
         </div>
       </div>
     );
