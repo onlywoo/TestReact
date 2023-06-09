@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/TestReact/static/css/main.572fa8b1.css",
+    "main.js": "/TestReact/static/js/main.8d3583e8.js",
+    "static/js/787.7cd949fd.chunk.js": "/TestReact/static/js/787.7cd949fd.chunk.js",
+    "static/media/blogWirefream.png": "/TestReact/static/media/blogWirefream.9c40d6f7fb846f6b6594.png",
+    "static/media/blog2WF.png": "/TestReact/static/media/blog2WF.85e474aae3e5ce940921.png",
+    "static/media/HPWireframe.png": "/TestReact/static/media/HPWireframe.264ae375f00d221b6db7.png",
+    "static/media/follow.png": "/TestReact/static/media/follow.a392e36b9602735eac9b.png",
+    "static/media/Logo.png": "/TestReact/static/media/Logo.c0cb46f88404365125b7.png",
+    "static/media/2.png": "/TestReact/static/media/2.88cea2ed0d4a9ea4ed51.png",
+    "static/media/Twitch.png": "/TestReact/static/media/Twitch.1174ac65be456a86116a.png",
+    "static/media/Ig.png": "/TestReact/static/media/Ig.858b628022b29fe29bec.png",
+    "static/media/Twt.png": "/TestReact/static/media/Twt.22f2136b1f318e6388f0.png",
+    "static/media/4.png": "/TestReact/static/media/4.52009460f1e93ceac5bc.png",
+    "static/media/3.png": "/TestReact/static/media/3.b9862a9b653f3dae8561.png",
+    "static/media/1.png": "/TestReact/static/media/1.07d39467d85d45f2d93e.png",
+    "static/media/Essay.png": "/TestReact/static/media/Essay.3c31b164bc50f58b48e3.png",
+    "index.html": "/TestReact/index.html",
+    "main.572fa8b1.css.map": "/TestReact/static/css/main.572fa8b1.css.map",
+    "main.8d3583e8.js.map": "/TestReact/static/js/main.8d3583e8.js.map",
+    "787.7cd949fd.chunk.js.map": "/TestReact/static/js/787.7cd949fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.572fa8b1.css",
+    "static/js/main.8d3583e8.js"
+  ]
+}
